@@ -12,7 +12,6 @@
 
 #include "cpu.h"
 #include "bits.h"
-#include "bits_test.h"
 
 const int TIME_ITERATIONS = 16;
 
